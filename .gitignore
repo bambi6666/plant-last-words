@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+dist
+.env
+.env.local
+.vercel
+coverage
+*.log
+tsconfig.tsbuildinfo
+.playwright-cli
+output/playwright
